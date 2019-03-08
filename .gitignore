@@ -1,0 +1,15 @@
+.vscode/desktop.ini
+.vscode/.ropeproject/desktop.ini
+.vscode/.ropeproject/objectdb
+__pycache__/actor.cpython-35.pyc
+__pycache__/base.cpython-35.pyc
+__pycache__/contact_details.cpython-35.pyc
+__pycache__/course.cpython-35.pyc
+__pycache__/dbtest.cpython-35.pyc
+__pycache__/desktop.ini
+__pycache__/movie.cpython-35.pyc
+__pycache__/student.cpython-35.pyc
+__pycache__/stuntman.cpython-35.pyc
+insert.py
+.vscode/.ropeproject/config.py
+vtest.py
